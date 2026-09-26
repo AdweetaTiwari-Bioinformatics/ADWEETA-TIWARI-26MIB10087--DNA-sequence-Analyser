@@ -145,19 +145,23 @@ After installation, verify that Python is available from the command line:
 
 then open command prompt or terminal and navigate to project directory
 
-run python file 
-
-and ####ENJOY!! the results
+run python fileand
+####ENJOY!! the results
 
 ## Execution Summary
 
 To run the project:
 
-1. Install Python 3.x.
-    2. Download or clone the repository.
-    3. Open Command Prompt or Terminal.
-    4. Navigate to the project directory.
-    5. Run the Python file.
+#####1. 
+Install Python 3.xx
+#####2. 
+Download or clone the repository.
+#####3. 
+Open Command Prompt or Terminal.
+#####4.
+Navigate to the project directory.
+#####5.
+Run the Python file.
 
 ## Author
 
