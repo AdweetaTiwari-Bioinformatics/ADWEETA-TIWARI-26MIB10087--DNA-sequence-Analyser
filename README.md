@@ -1,4 +1,4 @@
-# ADWEETA-TIWARI-26MIB10087--DNA-sequence-Analyser
+# ADWEETA-TIWARI-26MIB10087--DNA-sequence-ToolKit
 #DNA sequence Analyser
 ## 1. About The Project
 A Python based Bioinformatics tool Used to analyze DNA sequences of two DNA strands, which includes nucleotide composition and GC content, further it analyzes whether the two strands are complementary or not
